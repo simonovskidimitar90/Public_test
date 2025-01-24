@@ -1,0 +1,14 @@
+﻿Beaufort Scale,Description,Wind Speed (km/h),Wind Speed (m/s),Summer (Perception),Winter (Perception)
+0,Calm,<1,<0.3,"Very still, no cooling effect","Still air, no additional cold effect"
+1,Light Air,1-5,0.3-1.5,Barely perceptible,Feels slightly chilly
+2,Light Breeze,6-11,1.6-3.3,Gentle cooling breeze,"Chilly breeze, noticeable"
+3,Gentle Breeze,12-19,3.4-5.4,Refreshing and pleasant,"Cold wind, moderate chill"
+4,Moderate Breeze,20-28,5.5-7.9,Noticeable cooling effect,"Strong chill, uncomfortable"
+5,Fresh Breeze,29-38,8.0-10.7,Strong and invigorating,"Very cold, stinging sensation"
+6,Strong Breeze,39-49,10.8-13.8,"Feels forceful, cooling is intense","Intense cold, hard to stay warm"
+7,Near Gale,50-61,13.9-17.1,Uncomfortably strong,"Biting cold, challenging to move"
+8,Gale,62-74,17.2-20.7,"Very strong, challenging to walk","Severe chill, frostbite risk"
+9,Strong Gale,75-88,20.8-24.4,Forceful and intimidating,"Dangerously cold, exposed skin freezes"
+10,Storm,89-102,24.5-28.4,"Extreme, potentially dangerous","Extreme cold, life-threatening"
+11,Violent Storm,103-117,28.5-32.6,Very dangerous,"Violent cold, unlivable conditions"
+12,Hurricane,≥118,≥32.7,Life-threatening,"Catastrophic cold, fatal exposure"
